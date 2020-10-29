@@ -1,0 +1,15 @@
+[2020-10-27 11:14:25.373] [sharedprocess] [info] main {"machineId":"ab2e7faa5f3c9326e7ecb292a266178c27f54a9f447f2e7c0ddc5fc12c83ce98","windowId":2}
+[2020-10-27 11:14:25.412] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/PPA/Dijkstra/~/.vscode-root/User/snippets'
+[2020-10-27 11:14:25.683] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/ns3/.vscode/extensions/ms-vscode.cpptools-1.1.0-insiders3
+[2020-10-27 11:15:07.626] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-27 11:15:12.845] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2020-10-27 11:15:16.716] [sharedprocess] [info] Extracted extension to /home/ns3/.vscode/extensions/.ms-vscode.cpptools-1.1.0-insiders3: ms-vscode.cpptools
+[2020-10-27 11:15:16.716] [sharedprocess] [info] Renamed to /home/ns3/.vscode/extensions/ms-vscode.cpptools-1.1.0-insiders3
+[2020-10-27 11:15:16.717] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-10-27 11:15:16.722] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools
+[2020-10-27 16:26:57.117] [sharedprocess] [info] Installing extension: foxundermoon.shell-format
+[2020-10-27 16:26:57.771] [sharedprocess] [info] Downloaded extension: foxundermoon.shell-format undefined
+[2020-10-27 16:26:57.810] [sharedprocess] [info] Extracted extension to /home/ns3/.vscode/extensions/.foxundermoon.shell-format-7.0.1: foxundermoon.shell-format
+[2020-10-27 16:26:57.810] [sharedprocess] [info] Renamed to /home/ns3/.vscode/extensions/foxundermoon.shell-format-7.0.1
+[2020-10-27 16:26:57.812] [sharedprocess] [info] Installation completed. foxundermoon.shell-format
+[2020-10-27 16:26:57.815] [sharedprocess] [info] Extensions installed successfully: foxundermoon.shell-format

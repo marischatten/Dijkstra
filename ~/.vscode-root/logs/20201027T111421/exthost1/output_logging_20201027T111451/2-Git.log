@@ -1,0 +1,3169 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/PPA/Dijkstra
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/dijkstraOpenMp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstraOpenMp.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraOpenMp.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git show --textconv :dijkstraOpenMp.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraOpenMp.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :dijkstra copy.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra copy.cc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :dijkstraOpenMp.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraOpenMp.cc
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git show --textconv :dijkstraParallel.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/dijkstraParallel.cc
+> git check-ignore -v -z --stdin
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstra.cc
+> git cat-file -s 88b500125358223e3dd45c7d775bc4dbd636f1e5
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/.30knodes.txt.swp
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :4.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/4.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :5.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/5.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :8.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/8.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :10.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/10.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :100.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/100.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :20.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/20.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/graphGenerator
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :100.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/100.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/dijkstra
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.txt
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/dijkstraOpenMp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/dijkstraParallel
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/dijkstraOpenMp
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git show --textconv :dijkstraOpenMp.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/dijkstraOpenMp.cc
+> git show --textconv :entradas.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graphGenerator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graphGenerator.cc
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/entradas.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :@echo
+> git ls-files --stage -- /home/PPA/Dijkstra/@echo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :@echo
+> git ls-files --stage -- /home/PPA/Dijkstra/@echo
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.txt
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :1000.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/1000.txt
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :100.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/100.txt
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git show --textconv :200.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/200.txt
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :time.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/time.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :time.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/time.txt
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :time.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/time.txt
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :time.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/time.txt
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :time.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/time.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :time.out
+> git ls-files --stage -- /home/PPA/Dijkstra/time.out
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :saida.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/saida.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :saida.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/saida.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :saida.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/saida.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :saida.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/saida.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :saida.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/saida.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/entradas.sh
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/serial
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :saida.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/saida.txt
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git show --textconv :time.out
+> git ls-files --stage -- /home/PPA/Dijkstra/time.out
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git show --textconv :entradas.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/entradas.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/paralelo
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/serial
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :200.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/200.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :150.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/150.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :100.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/100.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/parallel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/serial
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :200.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/200.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :150.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/150.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :100.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/100.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/serial
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/parallel
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git config --get commit.template
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :100.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/100.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :150.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/150.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :200.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/200.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :output.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/output.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/parallel
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/serial
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :teste.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/teste.sh
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :exemplo.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/exemplo.cc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :exemplo.c
+> git ls-files --stage -- /home/PPA/Dijkstra/exemplo.c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git show --textconv :exemplo.c
+> git ls-files --stage -- /home/PPA/Dijkstra/exemplo.c
+> git show --textconv :exemplo.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/exemplo.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :exemplo.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/exemplo.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :200.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/200.txt
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/generator
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :200.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/200.txt
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :50.txt
+> git ls-files --stage -- /home/PPA/Dijkstra/50.txt
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/serial
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/parallel
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/parallel
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/PPA/Dijkstra/exemplo
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git show --textconv :serial_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/serial_dijkstra.cc
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
+> git show --textconv :openmp_dijkstra.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/openmp_dijkstra.cc
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.vscode/tasks.json
+> git ls-files --stage -- /home/PPA/Dijkstra/.vscode/tasks.json
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/PPA/Dijkstra/.vscode/settings.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/PPA/Dijkstra/.vscode/launch.json
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git show --textconv :.vscode/launch
+> git ls-files --stage -- /home/PPA/Dijkstra/.vscode/launch
+> git show --textconv :graph_generator.cc
+> git ls-files --stage -- /home/PPA/Dijkstra/graph_generator.cc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse openmp
+> git rev-parse --symbolic-full-name openmp@{u}
+fatal: no upstream configured for branch 'openmp'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :run.sh
+> git ls-files --stage -- /home/PPA/Dijkstra/run.sh
