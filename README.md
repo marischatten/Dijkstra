@@ -8,6 +8,8 @@ run
 
 ./generator num_vertex > lst.txt
 
+OPENMP
+
 Obter custo do menor caminho de todos os vertices para todos os vertices
 
 compile
@@ -38,4 +40,8 @@ chmod +x script.sh
 run
 
 ./script.sh
+
+MPI
+//mpirun --machinefile cluster.txt mpi num_vetex < lst.txt
+//mpic++ mpi_dijkstra.cc -o mpi
 
