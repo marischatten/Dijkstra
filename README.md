@@ -42,6 +42,9 @@ run
 ./script.sh
 
 MPI
-//mpirun --machinefile cluster.txt mpi num_vetex < lst.txt
-//mpic++ mpi_dijkstra.cc -o mpi
+
+mpic++ mpi_dijkstra.cc -o mpi
+
+mpirun --machinefile cluster.txt mpi num_vetex < lst.txt
+
 
